@@ -16,6 +16,8 @@
   "author": "Thiago Cavalcanti",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.7.0"
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.7.0",
+    "faker-br": "^0.4.1"
   }
 }
